@@ -3,15 +3,15 @@
 
 ##### Write at least 5 things that you like or dislike about the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) website design.
 
-1.
+1. I like the included tools makes it much easier to make consistent looking apps		
 
-2.
+2. I like the tangible style of a lot of the elements
 
-3.
+3. I like the help with color selection, as someone with a non artistic background
 
-4.
+4. I dislike that it seems like it can be difficult to really make your app look super original (uneducated/inexperienced opinion)
 
-5.
+5. I like the stacked/depth look that everything has
 
 6.
 
