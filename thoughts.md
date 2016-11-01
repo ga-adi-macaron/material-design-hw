@@ -15,14 +15,6 @@
 
 6. I like the advice to stay away from stock images.
 
-7.
-
-8.
-
-9.
-
-10.
-
 ---
 
 ##### Write at least 3 reasons why the [Google Design Specifications](https://www.google.com/design/spec/material-design/introduction.html) design follows Material Design guidelines. Be as specific as possible.
@@ -34,16 +26,3 @@
 3. The above-mentioned video also had transitions/transformations of elements that guided the users focus.
 
 4. That same video used radial transformations.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10. 
-
